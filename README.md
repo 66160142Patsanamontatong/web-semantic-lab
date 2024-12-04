@@ -4,4 +4,15 @@
 - การใช้ Semantic HTML
 - Form Validation
 - ARIA Labels 
--Fresh
+## git command used in this lab
+- git clone https://github.com/66160142Patsanamontatong/web-semantic-lab.git
+- git add .
+- git commit -m
+- git status
+- git checkout -b development
+- git checkout -b feature/home-page
+- git checkout -b feature/contact
+- git checkout developmen
+- git merge feature/home-page
+- git merge feature/contact-page
+- git push origin development
